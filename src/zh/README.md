@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 你博客的名称
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 人类的赞歌就是勇气的赞歌，人类的伟大就是勇气的伟大！
 projects:
   - icon: folder-open
     name: 项目名称
@@ -40,7 +40,6 @@ projects:
 
 footer: 自定义你的页脚文字
 ---
-
 这是一个博客主页的案例。
 
 要使用此布局，你应该在页面前端设置 `layout: Blog` 和 `home: true`。

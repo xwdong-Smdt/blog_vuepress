@@ -35,7 +35,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           # 改为部署到 main 分支
-          target_branch: main
+          target_branch: gh-pages
           # 确保构建目录路径正确（根据你的项目结构调整）
           build_dir: src/.vuepress/dist
         env:
